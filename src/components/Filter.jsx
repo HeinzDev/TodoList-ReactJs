@@ -3,7 +3,7 @@ import React from 'react'
 const Filter = ({filter, setFilter, setSort}) => {
   return (
     <div className="filter">
-        <h2>Filtrar</h2>
+        <h2>Filter</h2>
         <div className="filter-options">
             <div>
                 <p>Status: </p>
@@ -14,7 +14,7 @@ const Filter = ({filter, setFilter, setSort}) => {
                 </select>
             </div>
             <div>
-                <p>Ordem alfabética:</p>
+                <p>Sort order:</p>
                 <button onClick={()=> setSort("Asc")}>Asc</button>
                 <button onClick={()=> setSort("Desc")}>Desc</button>
             </div>

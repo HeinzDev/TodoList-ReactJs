@@ -20,7 +20,7 @@ body{
 
 .app {
   max-width: 600px;
-  margin: 0 auto 300px;
+  margin: 20px auto 100px;
   background-color: #222222;
   padding: 20px 30px;
   border-radius: 15px;
@@ -38,8 +38,6 @@ body{
   border-radius: 15px;
   background: var(--primary);
 }
-
-
 
 h1 {
   text-align: center;
