@@ -1,5 +1,8 @@
-# TodoList-ReactJs
-Todo list project made in reactJS with vite for study purposes
+# TodoList-ReactJs 📝
 
+## Description🔎
+Simple to do list application made in ReactJS with [ViteJS](https://vitejs.dev) for study purposes.
 
-App deploy: [todo-list.app.com](https://todo-list-react-js-pearl.vercel.app)
+## App deploy⚡
+App deploy available: 
+- [todo-list.app.com](https://todo-list-react-js-pearl.vercel.app)
