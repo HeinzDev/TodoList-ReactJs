@@ -149,9 +149,9 @@ button:hover{
   transform: scale(1.05);
 }
 
-
+/* rgba(81,167,237,255) */
 .complete{
-  background-color: #862ab1;
+  background-color: rgba(81,167,237,255);
   padding:10px;
 }
 

@@ -1,8 +1,5 @@
-# TodoList-ReactJs 📝
+# reactjs-typescript-template
 
-## Description🔎
-Simple to do list application made in ReactJS with [ViteJS](https://vitejs.dev) for study purposes.
+This repository serves as a personal minimalist ReactJS template, aimed to simplify my development process.
 
-## App deploy⚡
-App deploy available: 
-- [todo-list.app.com](https://todo-list-react-js-pearl.vercel.app)
+I created it after facing issues with `Vite` and `Create-React-App TypeScript template` build process and configuration, and because many other templates felt overly complex. This template offers a straightforward starting point for your React projects
